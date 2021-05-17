@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Brokoli-greenpaper](README.md)
+* [1. Overview](README.md)
 * [2. Problems Targeted](2.-problems-targeted.md)
 * [3. Our Vision](3.-our-vision.md)
 * [4. Core Features](4.-core-features.md)

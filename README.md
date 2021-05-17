@@ -1,4 +1,4 @@
-# Brokoli-greenpaper
+# 1. Overview
 
 Climate impact has not been the primary concern when designing blockchain technology and its sustainability issues carried over to the Decentralized Finance \(DeFi\) space. In 2020 DeFi boomed: more and more people join the ecosystem every day, and while this presents new opportunities, it also brings sustainability challenges to the forefront.
 
