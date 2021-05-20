@@ -9,4 +9,5 @@
 * [7. $BRKL Token](7.-usdbrkl-token.md)
 * [8. Business Model](8.-business-model.md)
 * [9. Market Overview](9.-market-overview.md)
+* [10. Disclaimer](10.-disclaimer.md)
 
