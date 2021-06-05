@@ -4,10 +4,6 @@ Climate impact has not been the primary concern when designing blockchain techno
 
 Consequently, we are presented with a problem where many existing and dominating networks face a cluster of sustainability issues. The environmental impact of the blockchain technology makes Bitcoin’s financial sidechains and Ethereum, on which DeFi is based, an unsuitable long-term solution for widely adopted decentralized finance. 
 
-Layer 2 platforms, on the other hand, offer a way of increasing transaction speeds and scaling. Because most transactions on L2 scalability solutions are carried out off chain, the negative environmental impact is heavily reduced when compared to the platforms on Layer 1. L2 also makes Ethereum-based instant micropayments possible as it requires no gas fees that usually are higher than low-value payments. 
-
-With that, Layer 2 makes it possible for DeFi to become climate positive and attract the masses - users that wouldn’t have considered decentralized payment solutions otherwise.
-
 DeFi has the potential to completely reinvent the world's financial systems but only if we address its climate-damaging nature. With more and more users in the space, there is increasing pressure to make DeFi climate positive.
 
 ### **The Need For a Solution**
@@ -16,7 +12,7 @@ If the DeFi community fails to address the issue of sustainability, DeFi might n
 
 ### **What is Brokoli?**
 
-Brokoli is the first decentralised exchange that allows users to act on climate. The project has three interconnected parts that all serve a single purpose: to rapidly grow Brokoli’s user base and offset DeFi’s carbon footprint.
+Brokoli is the first planet-saving DeFi platform allows users to act on climate. The project has three interconnected parts that all serve a single purpose: to rapidly grow Brokoli’s user base and offset DeFi’s carbon footprint.
 
 **Brokoli’s core**: ****Environmentally friendly gateway into the most popular DEXs and dApps.
 
