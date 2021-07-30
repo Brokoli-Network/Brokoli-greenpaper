@@ -24,5 +24,9 @@ Brokoli is the first planet-saving DeFi platform allows users to act on climate.
 
 ![DEX Trading Screen](.gitbook/assets/photo_2021-07-30-13.14.47.jpeg)
 
+![Transaction Pending](.gitbook/assets/photo_2021-07-30-13.16.37.jpeg)
+
+![Transaction Completed](.gitbook/assets/photo_2021-07-30-13.17.12.jpeg)
+
 
 
