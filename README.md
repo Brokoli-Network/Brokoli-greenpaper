@@ -18,5 +18,5 @@ Brokoli is the first planet-saving DeFi platform allows users to act on climate.
 
 **NFT rewards**: Companies and individuals receive a green NFT based on the amount of trees they have funded the planting of. They share it on social media and spread the word about Brokoli.
 
-**API**: Any DeFi platform on Layer 2 can implement our API to allow users to opt-in to a small climate fee that offsets their transaction’s footprint.
+**API**: Any blockchain platform \(centralised or decentralised\) can implement our API to allow users to opt-in to a small climate fee that offsets their transaction’s footprint.
 
