@@ -12,11 +12,13 @@ If the DeFi community fails to address the issue of sustainability, DeFi might n
 
 ### **What is Brokoli?**
 
-Brokoli is the first planet-saving DeFi platform allows users to act on climate. The project has three interconnected parts that all serve a single purpose: to rapidly grow Brokoli’s user base and offset DeFi’s carbon footprint.
+Brokoli is the ultimate sustainability layer of multi-chain DeFi.  
+  
+Brokoli merges DeFi and GameFi to incentivize users to make, own, and trade their positive impact. The project has three interconnected parts that all serve a single purpose: to rapidly grow Brokoli’s user base and offset DeFi’s carbon footprint.
 
 **Brokoli’s core**: ****Environmentally friendly gateway into the most popular DEXs and dApps.
 
-**NFT rewards**: Companies and individuals receive a green NFT based on the amount of trees they have funded the planting of. They share it on social media and spread the word about Brokoli.
+**NFT Forest**: Users receive NFTs based on trees they have funded the planting of by using our products and completing daily quests. Pegged to the value of real forests, digital NFt forest can be bought and sold using $BRKL tokens. 
 
 **API**: Any blockchain platform \(centralised or decentralised\) can implement our API to allow users to opt-in to a small climate fee that offsets their transaction’s footprint.
 
