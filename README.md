@@ -22,7 +22,7 @@ Brokoli merges DeFi and GameFi to incentivize users to make, own, and trade thei
 
 **Digital Forest / Brokoli Impact Credits**: Users receive NFTs based on trees they have funded the planting of by using our products and completing daily quests. Digital NFT forests will be tradable as Brokoli Impact Credits: Corporate Social Responsibility standard loosely pegged to real forests and purchased by corporate partners.
 
-#### Product Overview: Green Decentralised Exchange
+## Product Overview: Green Decentralised Exchange
 
 ![DEX Trading Screen](.gitbook/assets/photo_2021-07-30-13.14.47.jpeg)
 
