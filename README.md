@@ -18,17 +18,15 @@ Brokoli merges DeFi and GameFi to incentivize users to make, own, and trade thei
 
 **Brokoli’s core**: ****Environmentally friendly gateway into the most popular DEXs and dApps.
 
-**NFT Forest**: Users receive NFTs based on trees they have funded the planting of by using our products and completing daily quests. Pegged to the value of real forests, digital NFT forests can be bought and sold using $BRKL tokens. 
-
 **API**: Any blockchain platform \(centralised or decentralised\) can implement our API to allow users to opt-in to a small climate fee that offsets their transaction’s footprint.
 
-### Product Overview: Green Decentralised Exchange
+**Digital Forest / Brokoli Impact Credits**: Users receive NFTs based on trees they have funded the planting of by using our products and completing daily quests. Digital NFT forests will be tradable as Brokoli Impact Credits: Corporate Social Responsibility standard loosely pegged to real forests and purchased by corporate partners.
+
+## Product Overview: Green Decentralised Exchange
 
 ![DEX Trading Screen](.gitbook/assets/photo_2021-07-30-13.14.47.jpeg)
 
 ![Transaction Pending](.gitbook/assets/photo_2021-07-30-13.16.37.jpeg)
 
 ![Transaction Completed](.gitbook/assets/photo_2021-07-30-13.17.12.jpeg)
-
-{% embed url="https://www.figma.com/proto/hKOkZny9GaWG4SHDQlEQ6Q/DEX\_brokoli?node-id=0%3A30&scaling=scale-down-width" caption="Preview" %}
 
