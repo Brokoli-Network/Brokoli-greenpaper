@@ -11,3 +11,8 @@
 * [9. Market Overview](9.-market-overview.md)
 * [10. Disclaimer](10.-disclaimer.md)
 
+## The Metaverse
+
+* [Overview](the-metaverse/overview.md)
+* [Core Features](the-metaverse/core-features.md)
+* [The BRO Club](the-metaverse/the-bro-club.md)
