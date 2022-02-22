@@ -1,10 +1,11 @@
 # Overview
 
-### **'**_**Your guide to earning a living by helping our planet'**_
+#### The Green Metaverse is a web3 PC immersive, carbon neutral, play-to-earn metaverse experience, for windows and mac.
 
-![](https://lh5.googleusercontent.com/gt-C4nFSih2SE5SZcobH-6\_-Avsu9pYWtO5nn6QCBaWCwujOLaZZ554V6PqYbC8wQcwqvMd9PHZ-FfGxwptKmsIXVvhq2yRKzqR-EAah2Slj1eQmYJpzYPAdR6IGJ0bIben9m4uW)
+Make no mistake, we are making history - **this is the first Green Metaverse in history.**
 
-> **“The environment is where we all meet, where we all have a mutual interest.                        It is the only thing all of us share”**&#x20;
->
-> Lady Bird Johnson, Former First Lady of the United States
+Brokoli’s Green Metaverse **is a 3D social experience**, with all of its in-world features rooted in rewarding its community for ‘going green’. Its anonymous player base is the determining factor of not only how this metaverse functions but how rich the experience is.
 
+Brokoli has set specific rules as to how the Green Metaverse & its economy functions, however it is both the communities’ and their individual player’s decisions that augment and dictate how the Green Metaverse takes shape and evolves.
+
+_**This is your world. So how will you mould it?**_
