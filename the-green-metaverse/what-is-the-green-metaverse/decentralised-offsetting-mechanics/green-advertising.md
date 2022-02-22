@@ -1,8 +1,4 @@
-# Networks & Partnerships
-
-#### Brokoli Network is working constantly to secure strategic partnerships that will ensure the growth and prosperity of its Green Metaverse.&#x20;
-
-Through our DAO governance, users will have a say in which strategic partnerships we make.
+# Green Advertising
 
 ### Introducing: Green Advertising.&#x20;
 

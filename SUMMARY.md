@@ -3,7 +3,6 @@
 ## The Green Metaverse
 
 * [Introduction](README.md)
-* [Table of Contents](the-green-metaverse/table-of-contents.md)
 * [Overview](the-green-metaverse/overview.md)
 * [What Is The Green Metaverse](the-green-metaverse/what-is-the-green-metaverse/README.md)
   * [Blockchain Mechanics](the-green-metaverse/what-is-the-green-metaverse/blockchain-mechanics/README.md)
@@ -20,7 +19,7 @@
     * [$SEED and NFTrees: Plant to Earn](the-green-metaverse/what-is-the-green-metaverse/decentralised-offsetting-mechanics/usdseed-and-nftrees-plant-to-earn.md)
     * [DAO Structure](the-green-metaverse/what-is-the-green-metaverse/decentralised-offsetting-mechanics/dao-structure.md)
     * [DAO Economics](the-green-metaverse/what-is-the-green-metaverse/decentralised-offsetting-mechanics/dao-economics.md)
-* [Networks & Partnerships](the-green-metaverse/networks-and-partnerships.md)
+    * [Green Advertising](the-green-metaverse/what-is-the-green-metaverse/decentralised-offsetting-mechanics/green-advertising.md)
 * [Conclusion](the-green-metaverse/conclusion.md)
 
 ## Green Features
