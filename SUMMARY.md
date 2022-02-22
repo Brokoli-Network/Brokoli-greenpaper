@@ -1,19 +1,8 @@
 # Table of contents
 
-* [1. Overview](README.md)
-* [2. Problems Targeted](2.-problems-targeted.md)
-* [3. Our Vision](3.-our-vision.md)
-* [4. Core Features](4.-core-features.md)
-* [5. Decentralised Offsetting Process](5.-decentralised-offsetting-process.md)
-* [6. Technical Summary](6.-technical-summary.md)
-* [7. $BRKL Token](7.-usdbrkl-token.md)
-* [8. Business Model](8.-business-model.md)
-* [9. Market Overview](9.-market-overview.md)
-* [10. Disclaimer](10.-disclaimer.md)
-
 ## The Green Metaverse
 
-* [Introduction](the-green-metaverse/introduction.md)
+* [Introduction](README.md)
 * [Table of Contents](the-green-metaverse/table-of-contents.md)
 * [Overview](the-green-metaverse/overview.md)
 * [What Is The Green Metaverse](the-green-metaverse/what-is-the-green-metaverse/README.md)
@@ -33,3 +22,16 @@
     * [DAO Economics](the-green-metaverse/what-is-the-green-metaverse/decentralised-offsetting-mechanics/dao-economics.md)
 * [Networks & Partnerships](the-green-metaverse/networks-and-partnerships.md)
 * [Conclusion](the-green-metaverse/conclusion.md)
+
+## Green Features
+
+* [1. Overview](green-features/master.md)
+* [2. Problems Targeted](green-features/2.-problems-targeted.md)
+* [3. Our Vision](green-features/3.-our-vision.md)
+* [4. Core Features](green-features/4.-core-features.md)
+* [5. Decentralised Offsetting Process](green-features/5.-decentralised-offsetting-process.md)
+* [6. Technical Summary](green-features/6.-technical-summary.md)
+* [7. $BRKL Token](green-features/7.-usdbrkl-token.md)
+* [8. Business Model](green-features/8.-business-model.md)
+* [9. Market Overview](green-features/9.-market-overview.md)
+* [10. Disclaimer](green-features/10.-disclaimer.md)

@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. _****_[_**Introduction**_](introduction.md)_****_
+1. _****_[_**Introduction**_](../)_****_
 2. _****_[_**Overview**_](overview.md)_****_
 3. _****_[_**What is The Green Metaverse**_](what-is-the-green-metaverse/)_****_
 
