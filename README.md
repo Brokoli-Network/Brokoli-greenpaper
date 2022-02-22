@@ -16,7 +16,7 @@ Brokoli is the ultimate sustainability layer of multi-chain DeFi.\
 \
 Brokoli merges DeFi and GameFi to incentivize users to make, own, and trade their positive impact. The project has three interconnected parts that all serve a single purpose: to rapidly grow Brokoli’s user base and offset DeFi’s carbon footprint.
 
-**Brokoli’s core**:** **Environmentally friendly gateway into the most popular DEXs and dApps.
+**Brokoli’s core**: **** Environmentally friendly gateway into the most popular DEXs and dApps.
 
 **API**: Any blockchain platform (centralised or decentralised) can implement our API to allow users to opt-in to a small climate fee that offsets their transaction’s footprint.
 
