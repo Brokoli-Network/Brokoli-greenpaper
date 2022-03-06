@@ -3,14 +3,14 @@
 ## The Green Metaverse
 
 * [Introduction](README.md)
-* [What Is The Green Metaverse](the-green-metaverse/what-is-the-green-metaverse/README.md)
-  * [Blockchain Mechanics](the-green-metaverse/what-is-the-green-metaverse/blockchain-mechanics/README.md)
-    * [Token Economics](the-green-metaverse/what-is-the-green-metaverse/blockchain-mechanics/token-economics.md)
+* [What Is The Green Metaverse](the-green-metaverse/what-is-the-green-metaverse.md)
+* [Blockchain Mechanics](the-green-metaverse/blockchain-mechanics/README.md)
+  * [Token Economics](the-green-metaverse/blockchain-mechanics/token-economics.md)
+  * [NFT Marketplace & Peer-to-Peer Asset Exchange](the-green-metaverse/blockchain-mechanics/nft-marketplace-and-peer-to-peer-asset-exchange.md)
 * [BrokoliDAO](the-green-metaverse/brokolidao/README.md)
   * [DAO Structure](the-green-metaverse/brokolidao/dao-structure.md)
   * [DAO Economics](the-green-metaverse/brokolidao/dao-economics.md)
   * [Climate Parliament DAO](the-green-metaverse/brokolidao/climate-parliament-dao.md)
-  * [NFT Marketplace & Peer-to-Peer Asset Exchange](the-green-metaverse/brokolidao/nft-marketplace-and-peer-to-peer-asset-exchange.md)
 * [Gameplay Mechanics](the-green-metaverse/gameplay-mechanics/README.md)
   * [Earning $BRKL through minigames](the-green-metaverse/gameplay-mechanics/earning-usdbrkl-through-minigames.md)
   * [PvP Gambling](the-green-metaverse/gameplay-mechanics/pvp-gambling.md)

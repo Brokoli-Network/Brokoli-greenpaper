@@ -28,6 +28,6 @@ Jupiter is the fourth NFT Habitat — also known as ‘The Land of King BRO’. 
 
 Saturn was named after the Roman God of Wealth — and for good reason. Within the Green Metaverse, Saturn is known as the ‘Land of Guilds’. Saturn is mostly known for the rings around it. Indeed, rings will be very important for players on Saturn. Rings will expand with time and will be sold in a Guild auction to allow for Guild scholars to play in a PvE environment. The revenue from Saturn ring land sales will be distributed among Saturn NFT owners as a bounty.
 
-### Venus NFT Habitat Ticket \[Price: 3 0,000 x $BRKL]
+### Venus NFT Habitat Ticket \[Price: 30,000 x $BRKL]
 
 Venus was named after the Roman goddess of Love and Beauty, and is called ‘The Land of Love’ in the Green Metaverse. Current staking is only open for Generation 0 BROs — but this is only the start of many generations to come. Further Generations will be produced by breeding and will take place on Venus. Venus NFT holders will have a chance to either breed their own BROs or capitalise on selling BROs to players living in other Habitats of the Green Metaverse. As a result, Venus is set to become the NFT hub of the Green Metaverse, crucial to welcoming new players and increasing yield for the existing players.
